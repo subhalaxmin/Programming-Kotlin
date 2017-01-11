@@ -2,9 +2,10 @@ group 'com.programming.kotlin'
 version '1.0-SNAPSHOT'
 
 buildscript {
-    ext.kotlin_version = '1.0.3'
+    ext.kotlin_version = '1.1-M04'
 
     repositories {
+        maven { url "https://dl.bintray.com/kotlin/kotlin-dev" }
         mavenCentral()
     }
     dependencies {
@@ -17,6 +18,7 @@ apply plugin: 'application'
 mainClassName = "com.programming.kotlin.chapter06.ProgramKt"
 
 repositories {
+    maven { url "https://dl.bintray.com/kotlin/kotlin-dev" }
     mavenCentral()
 }
 

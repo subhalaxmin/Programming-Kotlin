@@ -23,5 +23,4 @@ fun main(args: Array<String>): Unit {
 
 fun <T> itWorks(list: List<T>): Unit {
     println("Java Class Type:" + list.javaClass.canonicalName)
-
 }
