@@ -26,9 +26,9 @@ Software and Hardware List
 ##Related Products
 * [Scala for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/scala-data-science?utm_source=GitHub&utm_medium=repository&utm_campaign=9781785281372)
 
-* [R Graph Essentials](https://www.packtpub.com/big-data-and-business-intelligence/r-graph-essentials?utm_source=Github&utm_medium=Repository&utm_campaign=9781783554553)
+* [Building Applications with Scala](https://www.packtpub.com/application-development/building-applications-scala?utm_source=GitHub&utm_medium=repository&utm_campaign=9781786461483)
 
-* [Introduction to R Programming [Video]](https://www.packtpub.com/big-data-and-business-intelligence/introduction-r-programming-video?utm_source=Github&utm_medium=Repository&utm_campaign=9781786463869)
+* [Scala for Java Developers](https://www.packtpub.com/application-development/scala-java-developers?utm_source=GitHub&utm_medium=repository&utm_campaign=9781783283637)
 
 
 ###Suggestions and Feedback
