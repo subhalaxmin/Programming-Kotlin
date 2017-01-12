@@ -24,7 +24,7 @@ Software and Hardware List
 
 
 ##Related Products
-* [R for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/r-data-science?utm_source=Github&utm_medium=Repository&utm_campaign=9781784390860)
+* [Scala for Data Science](https://www.packtpub.com/big-data-and-business-intelligence/scala-data-science?utm_source=GitHub&utm_medium=repository&utm_campaign=9781785281372)
 
 * [R Graph Essentials](https://www.packtpub.com/big-data-and-business-intelligence/r-graph-essentials?utm_source=Github&utm_medium=Repository&utm_campaign=9781783554553)
 
