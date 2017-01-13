@@ -11,6 +11,8 @@ import com.lightbend.lagom.javadsl.api.Service;
 import com.lightbend.lagom.javadsl.api.ServiceCall;
 
 import static com.lightbend.lagom.javadsl.api.Service.named;
+import static com.lightbend.lagom.javadsl.api.Service.namedCall;
+import static com.lightbend.lagom.javadsl.api.Service.pathCall;
 
 /**
  * The Hello service interface.
